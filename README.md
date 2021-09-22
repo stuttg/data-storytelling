@@ -2,7 +2,7 @@
 
 This repo contains slides and resources for the course **Data Storytelling**. 
 
-To review the content of this repo, visit the [course website]()
+To review the content of this repo, visit the [course website](https://kirenz.github.io/data-storytelling/)
 
 ---
 

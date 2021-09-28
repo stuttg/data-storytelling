@@ -36,6 +36,7 @@ Dash | Creation of Dashboards | [Starter code](https://github.com/kirenz/dash-tu
 Pandas | Data wrangling with Python | [Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 Python | Introduction to Python | [Tutorial from Microsoft](https://docs.microsoft.com/de-de/learn/modules/intro-to-python/1-introduction) 
 Markdown | Mastering Markdown on GitHub | [GitHub Tutorial](https://guides.github.com/features/mastering-markdown/)
-Visual Studio Code | Code editor | [Install](https://code.visualstudio.com/)
+Visual Studio Code | Code editor | [Install Code](https://code.visualstudio.com/)
+Anaconda | Data Science Platform | [Install Anaconda](https://kirenz.github.io/codelabs/codelabs/anaconda-install/#0)
 
 

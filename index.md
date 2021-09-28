@@ -22,6 +22,6 @@ Lecture|Name|Topic|Slides
 ### Technology
 
 Technology |Content | Link
---- |---|---|---
+--- |---|---
 Dash | Creation of Dashboards | [Starter code](https://github.com/kirenz/dash-tutorial)
 Pandas | Data wrangling with Python | [Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)

@@ -23,6 +23,10 @@ Lecture|Name|Topic|Slides
 
 ### Technology
 
+```markdown
+We will use several Technologies in this course
+```
+
 Technology |Content | Link
 --- |---|---
 Plotly | Create plots | [Documentation](https://plotly.com/python/)
@@ -32,10 +36,4 @@ Python | Introduction to Python | [Tutorial from Microsoft](https://docs.microso
 Markdown | Mastering Markdown on GitHub | [GitHub Tutorial](https://guides.github.com/features/mastering-markdown/)
 
 
-```markdown
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+

@@ -30,6 +30,5 @@ Dash | Creation of Dashboards | [Starter code](https://github.com/kirenz/dash-tu
 Pandas | Data wrangling with Python | [Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 Python | Introduction to Python | [Tutorial from Microsoft](https://docs.microsoft.com/de-de/learn/modules/intro-to-python/1-introduction) 
 
-`markdown
-test
+
 

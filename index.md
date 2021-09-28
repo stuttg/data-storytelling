@@ -12,3 +12,8 @@ Lecture|lecture_name_nr|Topic|Slides
 05|L05_designer|Think like a designer|[L05_designer.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L05_designer.pdf)  
 06|L06_story|Tell a story|[L06_story.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L06_story.pdf)  
 07|L07_recap|Repetition|[L07_recap.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L07_recap.pdf)  
+
+
+---
+
+- [Introduction to Dash](https://github.com/kirenz/dash-tutorial)

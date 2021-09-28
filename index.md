@@ -19,10 +19,9 @@ Lecture|Name|Topic|Slides
 
 ---
 
-### Python
+### Technology
 
-
-
-
-- [Introduction to Dash](https://github.com/kirenz/dash-tutorial)
-- [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+Technology |Content | Link
+--- |---|---|---
+Dash | Creation of Dashboards | [Starter code](https://github.com/kirenz/dash-tutorial)
+Pandas | Data wrangling with Python | [Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)

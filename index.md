@@ -16,4 +16,7 @@ Lecture|lecture_name_nr|Topic|Slides
 
 ---
 
+### Python
+
 - [Introduction to Dash](https://github.com/kirenz/dash-tutorial)
+- [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)

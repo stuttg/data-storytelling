@@ -23,9 +23,6 @@ Lecture|Name|Topic|Slides
 
 ### Technology
 
-```markdown
-We will use several Technologies in this course
-```
 
 Technology |Content | Link
 --- |---|---

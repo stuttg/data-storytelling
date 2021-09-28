@@ -1,4 +1,4 @@
-## Welcome to Data Storytelling
+## Data Storytelling
 
 ### Slides
 
@@ -25,5 +25,6 @@ Lecture|Name|Topic|Slides
 
 Technology |Content | Link
 --- |---|---
+Plotly | Create plots | [Documentation](https://plotly.com/python/)
 Dash | Creation of Dashboards | [Starter code](https://github.com/kirenz/dash-tutorial)
 Pandas | Data wrangling with Python | [Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)

@@ -1,6 +1,6 @@
 ## Welcome to Data Storytelling
 
-Lecture|lecture_name_nr|Topic|Slides
+Lecture|Name|Topic|Slides
 --- |---|---|---
 00|L00_intro|Projektüberblick|[L00_intro.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_intro.pdf)  
 00|L00_organisatorisches|Organisatorisches|[L00_organisatorisches.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_organisatorisches.pdf)  
@@ -20,6 +20,9 @@ Lecture|lecture_name_nr|Topic|Slides
 ---
 
 ### Python
+
+
+
 
 - [Introduction to Dash](https://github.com/kirenz/dash-tutorial)
 - [Introduction to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)

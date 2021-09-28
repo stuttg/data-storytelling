@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Data Storytelling
 
-You can use the [editor on GitHub](https://github.com/kirenz/data-storytelling/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kirenz/data-storytelling/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Lecture|lecture_name_nr|Topic|Slides
+--- |---|---|---
+00|L00_intro|Projektüberblick|[L00_intro.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_intro.pdf)  
+00|L00_organisatorisches|Organisatorisches|[L00_organisatorisches.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_organisatorisches.pdf)  
+00|L00_dokumentation|Organisatorisches|[L00_dokumentation.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_dokumentation.pdf)  
+01|L01_context|The importance of context|[L01_context.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L01_context.pdf)  
+02|L02_display|Choose an appropriate display|[L02_display.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L02_display.pdf)  
+03|L03_clutter|Eliminate clutter|[L03_clutter.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L03_clutter.pdf)  
+04|L04_attention|Focus attention|[L04_attention.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L04_attention.pdf)  
+05|L05_designer|Think like a designer|[L05_designer.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L05_designer.pdf)  
+06|L06_story|Tell a story|[L06_story.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L06_story.pdf)  
+07|L07_recap|Repetition|[L07_recap.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L07_recap.pdf)  

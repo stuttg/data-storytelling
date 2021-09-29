@@ -32,7 +32,6 @@ Lecture|Name|Topic|Slides
 
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
-
 04|L04_1_case_study_stents|First data analysis: case study stents|[L04_1_case_study_stents.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_case_study_stents.pdf)  
 04|L04_1_data_basics|Data basics|[L04_1_data_basics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_data_basics.pdf)  
 05|L05_1_case_passwords|Exploratory data analysis: categorical data|[L05_1_case_passwords.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_1_case_passwords.pdf)  

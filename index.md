@@ -16,8 +16,6 @@ Lecture|Name|Topic|Slides
 02|L02_display|Choose an appropriate display|[L02_display.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L02_display.pdf)  
 
 <!--
-01|L01_context|The importance of context|[L01_context.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L01_context.pdf)  
-02|L02_display|Choose an appropriate display|[L02_display.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L02_display.pdf)  
 03|L03_clutter|Eliminate clutter|[L03_clutter.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L03_clutter.pdf)  
 04|L04_attention|Focus attention|[L04_attention.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L04_attention.pdf)  
 05|L05_designer|Think like a designer|[L05_designer.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L05_designer.pdf)  

@@ -43,5 +43,5 @@ Anaconda | Data Science Platform | [Install Anaconda](https://kirenz.github.io/c
 
 
 - [Dash Core Components](https://anaconda.org/conda-forge/dash-core-components)
-- [Dash HTML components](https://anaconda.org/conda-forge/dash-html-componentss)
+- [Dash HTML components](https://anaconda.org/conda-forge/dash-html-components)
 

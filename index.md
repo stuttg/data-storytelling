@@ -41,3 +41,6 @@ Visual Studio Code | Code editor | [Install Code](https://code.visualstudio.com/
 Anaconda | Data Science Platform | [Install Anaconda](https://kirenz.github.io/codelabs/codelabs/anaconda-install/#0)
 
 
+
+- [Dash Core Components](https://anaconda.org/conda-forge/dash-core-components)
+

@@ -1,4 +1,4 @@
-## Data Storytelling
+# Data Storytelling
 
 ```markdown
 Welcome to data storytelling

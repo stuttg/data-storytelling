@@ -14,12 +14,14 @@ Lecture|Name|Topic|Slides
 00|L00_dokumentation|Organisatorisches|[L00_dokumentation.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_dokumentation.pdf) 
 01|L01_context|The importance of context|[L01_context.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L01_context.pdf)  
 02|L02_display|Choose an appropriate display|[L02_display.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L02_display.pdf)  
+
+<!--
 03|L03_clutter|Eliminate clutter|[L03_clutter.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L03_clutter.pdf)  
 04|L04_attention|Focus attention|[L04_attention.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L04_attention.pdf)  
 05|L05_designer|Think like a designer|[L05_designer.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L05_designer.pdf)  
 06|L06_story|Tell a story|[L06_story.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L06_story.pdf)  
 07|L07_recap|Repetition|[L07_recap.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L07_recap.pdf)  
-
+-->
 
 
 ---
@@ -32,13 +34,15 @@ Nr | Lecture | Topic | Slides
 -- | -- | -- | -- 
 04|L04_1_case_study_stents|First data analysis: case study stents|[L04_1_case_study_stents.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_case_study_stents.pdf)  
 04|L04_1_data_basics|Data basics|[L04_1_data_basics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_data_basics.pdf)  
+
+<!--
 05|L05_1_case_passwords|Exploratory data analysis: categorical data|[L05_1_case_passwords.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_1_case_passwords.pdf)  
 05|L05_2_exploring_categorical_data|Exploratory data analysis: categorical data|[L05_2_exploring_categorical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_2_exploring_categorical_data.pdf)  
 05|L05_3_exploring_categorical_data|Exploratory data analysis: categorical data|[L05_3_exploring_categorical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_3_exploring_categorical_data.pdf)  
 06|L06_1_exploring_numerical_data|Exploratory data analysis: numerical data|[L06_1_exploring_numerical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_1_exploring_numerical_data.pdf)  
 06|L06_2_exploring_numerical_data|Exploratory data analysis: numerical data|[L06_2_exploring_numerical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_2_exploring_numerical_data.pdf)  
 06|L06_3_exploring_communication|Exploratory data analysis: communication|[L06_3_exploring_communication.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_3_exploring_communication.pdf)  
-
+-->
 
 ### Notebooks
 
@@ -46,6 +50,8 @@ Nr | Lecture | Topic | Slides
 Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | --
 L04_1_case_study_stents|stents|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)
+
+<!--
 L05_1_case_passwords|passwords|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)
 L05_2_exploring_categorical_data|contingency-table-bar-plot|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)
 L05_2_exploring_categorical_data|two-categorical-variables|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)
@@ -66,7 +72,7 @@ L06_2_exploring_numerical_data|robust-statistics|[GitHub](https://github.com/kir
 L06_2_exploring_numerical_data|transforming-data|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-7-transforming-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-7-transforming-data.ipynb)
 L06_2_exploring_numerical_data|mapping-data|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-8-mapping-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-8-mapping-data.ipynb)
 
-
+-->
 
 
 ---

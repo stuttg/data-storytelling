@@ -86,7 +86,7 @@ Python | Introduction to Python | [Tutorial from Microsoft](https://docs.microso
 Markdown | Mastering Markdown on GitHub | [GitHub Tutorial](https://guides.github.com/features/mastering-markdown/)
 Visual Studio Code | Code editor | [Install Code](https://code.visualstudio.com/)
 Anaconda | Data Science Platform | [Install Anaconda](https://kirenz.github.io/codelabs/codelabs/anaconda-install/#0)
-
+Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/data-storytelling/blob/main/slides/seaborn_intro.pdf)
 
 <br>
 

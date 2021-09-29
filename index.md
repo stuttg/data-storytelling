@@ -5,7 +5,7 @@ Welcome to data storytelling
 ```
 
 
-### Explanatory Data Analysis
+## Data Storytelling
 
 Lecture|Name|Topic|Slides
 --- |---|---|---
@@ -24,6 +24,7 @@ Lecture|Name|Topic|Slides
 -->
 
 
+---
 
 ## Exploratory Data Analysis
 

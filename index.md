@@ -41,6 +41,7 @@ Nr | Lecture | Topic | Slides
 06|L06_2_exploring_numerical_data|Exploratory data analysis: numerical data|[L06_2_exploring_numerical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_2_exploring_numerical_data.pdf)  
 06|L06_3_exploring_communication|Exploratory data analysis: communication|[L06_3_exploring_communication.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_3_exploring_communication.pdf)  
 
+
 ### Notebooks
 
 

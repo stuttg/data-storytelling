@@ -5,7 +5,7 @@ Welcome to data storytelling
 ```
 
 
-## Data Storytelling
+## Explanatory Data Analytics 
 
 Lecture|Name|Topic|Slides
 --- |---|---|---
@@ -72,7 +72,7 @@ L06_2_exploring_numerical_data|mapping-data|[GitHuB](https://github.com/kirenz/m
 
 ---
 
-### Technology
+## Technology
 
 
 Technology |Content | Link

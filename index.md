@@ -5,13 +5,20 @@ Welcome to data storytelling
 ```
 
 
-## Explanatory Data Analytics 
+## Organisatorisches
 
 Lecture|Name|Topic|Slides
 --- |---|---|---
 00|L00_intro|Projektüberblick|[L00_intro.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_intro.pdf)  
 00|L00_organisatorisches|Organisatorisches|[L00_organisatorisches.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_organisatorisches.pdf)  
-00|L00_dokumentation|Organisatorisches|[L00_dokumentation.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_dokumentation.pdf) 
+00|L00_dokumentation|Organisatorisches|[L00_dokumentation.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_dokumentation.pdf)
+
+---
+
+## Explanatory Data Analytics 
+ 
+Lecture|Name|Topic|Slides
+--- |---|---|--- 
 01|L01_context|The importance of context|[L01_context.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L01_context.pdf)  
 02|L02_display|Choose an appropriate display|[L02_display.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L02_display.pdf)  
 
@@ -92,8 +99,4 @@ Visual Studio Code | Code editor | [Install Code](https://code.visualstudio.com/
 Anaconda | Data Science Platform | [Install Anaconda](https://kirenz.github.io/codelabs/codelabs/anaconda-install/#0)
 Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/data-storytelling/blob/main/slides/seaborn_intro.pdf)
 
-<br>
-
-- [Dash Core Components](https://anaconda.org/conda-forge/dash-core-components)
-- [Dash HTML components](https://anaconda.org/conda-forge/dash-html-components)
 
